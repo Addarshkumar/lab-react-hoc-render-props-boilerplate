@@ -13,4 +13,7 @@ export default function LikeImage() {
       <button onClick={handleLikeImageCount}>Like Image {likeImageCounter}</button>
     </div>
   )
+
 }
+
+
